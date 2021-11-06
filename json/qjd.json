@@ -1,51 +1,58 @@
 [
     {
-        "groupCode": "906334169387130880", 
+        "groupCode": "906704933079769088", 
         "shareCode": "8E544CDD476CD86C80C209F59E570461", 
         "sumBeanNumStr": "0", 
-        "activityId": 161, 
+        "activityId": 162, 
         "userName": "D15828193643"
     }, 
     {
-        "groupCode": "906334183810424832", 
+        "groupCode": "906696534657228800", 
         "shareCode": "6F0BA54025DF3717A59FAEE03A268296", 
-        "sumBeanNumStr": "0", 
-        "activityId": 161, 
+        "sumBeanNumStr": "154", 
+        "activityId": 162, 
         "userName": "ChristinaYimi"
     }, 
     {
-        "groupCode": "906334465629249536", 
-        "shareCode": "89BE74D840F253CF5B03A7FC18DA67DD", 
+        "groupCode": "906696933045592064", 
+        "shareCode": "867619BD171771499C0B9B85AB608C50", 
         "sumBeanNumStr": "0", 
-        "activityId": 161, 
-        "userName": "l499564495"
+        "activityId": 162, 
+        "userName": "tanghom"
     }, 
     {
-        "groupCode": "906334499372687360", 
-        "shareCode": "BDE62ED9DF32041BBE058924D6511E9EAD1DAAB9A3E3F6CBAFDE81EEB7393333", 
+        "groupCode": "906697049554706432", 
+        "shareCode": "2B2DFF70677BE325001FD3DED263E0AEAD1DAAB9A3E3F6CBAFDE81EEB7393333", 
         "sumBeanNumStr": "0", 
-        "activityId": 161, 
-        "userName": "jd_55ba147a23296"
+        "activityId": 162, 
+        "userName": "jd_478baceea13b8"
     }, 
     {
-        "groupCode": "906335151462440960", 
-        "shareCode": "2B2B4944BC7F3CB3325605A27FA2993B", 
+        "groupCode": "906697499924647936", 
+        "shareCode": "0FFE956759FC380C9B876BA195064312AD1DAAB9A3E3F6CBAFDE81EEB7393333", 
         "sumBeanNumStr": "0", 
-        "activityId": 161, 
-        "userName": "w654781787"
+        "activityId": 162, 
+        "userName": "jd_76bfbedbe8a21"
     }, 
     {
-        "groupCode": "906335185335246848", 
-        "shareCode": "39DDE92EAAF3C7FE3EC7CEF230457213AD1DAAB9A3E3F6CBAFDE81EEB7393333", 
+        "groupCode": "906697533619593216", 
+        "shareCode": "2820B43A6F3CB5502FC5DD6EBF9052B5", 
         "sumBeanNumStr": "0", 
-        "activityId": 161, 
-        "userName": "jd_5e749a72802a9"
+        "activityId": 162, 
+        "userName": "91736878-818537"
     }, 
     {
-        "groupCode": "906335219736010752", 
-        "shareCode": "003E5C524DFBFC2F7470FE3089F06983", 
+        "groupCode": "906697567404056576", 
+        "shareCode": "9FE79AC0AD6EB31C98263395EBABDE5E", 
         "sumBeanNumStr": "0", 
-        "activityId": 161, 
-        "userName": "wdPNtFIqnWPMZU"
+        "activityId": 162, 
+        "userName": "jd_IlhRgyIAtgzK"
+    }, 
+    {
+        "groupCode": "906697602027905024", 
+        "shareCode": "23313D8381BA31582B57117B31FC2AD9", 
+        "sumBeanNumStr": "0", 
+        "activityId": 162, 
+        "userName": "fanpq"
     }
 ]
